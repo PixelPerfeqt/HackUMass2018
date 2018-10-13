@@ -17,3 +17,6 @@ Clicking the button again will cause a different affirmation to be displayed:
 
 The user can press the button as many times as they wish, until they feel calm and ready to proceed with life.
 
+# The Back End
+
+The Panic Button is lovingly constructed in Java, with a random number generator pulling affirmations from a long list thought up to soothe and encourage the user.
